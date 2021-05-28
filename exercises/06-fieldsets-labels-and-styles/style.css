@@ -1,0 +1,27 @@
+body {
+	font-family: "Lato", sans-serif;
+}
+form {
+	outline: none;
+	border: 0;
+	margin: none;
+	padding: 10px;
+}
+legend {
+	outline: none;
+	border: 0;
+	margin: none;
+}
+input[type="text"] {
+	border: none;
+	border-bottom: 1px solid black;
+	font-size: 16px;
+}
+input[type="submit"] {
+	cursor: pointer;
+	border: none;
+	padding: 10px;
+	background-color: #f65252;
+	color: white;
+	width: 100%;
+}
